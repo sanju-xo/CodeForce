@@ -11,7 +11,7 @@
 
 ### Team Members
 - Member 1: Nabeel Ansar - AISAT, KALAMASSERY
-- Member 2: Sahal Salam - AISAT, KALAMASSERY
+- Member 2: Sahal Salam K A - AISAT, KALAMASSERY
 
 ### Project Description
 Your GOTO advisor to give raw truths that in different situations that no one else will speak 
@@ -25,72 +25,49 @@ Some people depend on motivation so much that the search for motivation itself e
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Dart 
+- Flutter
 
 ### Implementation
-For Software:
+For Software: Flutter App
 # Installation
-[commands]
+[[commands]
+](https://docs.flutter.dev/get-started/install
+)
+
+git clone https://github.com/sanju-xo/demotivation_app.git
+cd demotivation_app
+
+flutter pub get
 
 # Run
-[commands]
+flutter run
+flutter run --debug
+flutter build apk --release
+
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+https://drive.google.com/drive/folders/1qnVbeA1K8dWXWoQER_sv-UqHTleSjvtn
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
+![Final]
+https://drive.google.com/drive/folders/1qnVbeA1K8dWXWoQER_sv-UqHTleSjvtn
 *Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nabeel Ansar : UI & Coding
+- Sahal Salam K A : UI & Coding
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
