@@ -2,23 +2,22 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# AntiMotivation 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: CodeForce
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Nabeel Ansar - AISAT, KALAMASSERY
+- Member 2: Sahal Salam - AISAT, KALAMASSERY
 
 ### Project Description
-[2-3 lines about what your project does]
+Your GOTO advisor to give raw truths that in different situations that no one else will speak 
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem 
+Some people depend on motivation so much that the search for motivation itself ends up being the biggest 
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
